@@ -1,0 +1,13 @@
+C:\xampp\htdocs\resource\c-sharp\bin\Debug\netcoreapp3.1\c-sharp.exe
+C:\xampp\htdocs\resource\c-sharp\bin\Debug\netcoreapp3.1\c-sharp.deps.json
+C:\xampp\htdocs\resource\c-sharp\bin\Debug\netcoreapp3.1\c-sharp.runtimeconfig.json
+C:\xampp\htdocs\resource\c-sharp\bin\Debug\netcoreapp3.1\c-sharp.runtimeconfig.dev.json
+C:\xampp\htdocs\resource\c-sharp\bin\Debug\netcoreapp3.1\c-sharp.dll
+C:\xampp\htdocs\resource\c-sharp\bin\Debug\netcoreapp3.1\c-sharp.pdb
+C:\xampp\htdocs\resource\c-sharp\obj\Debug\netcoreapp3.1\c-sharp.csprojAssemblyReference.cache
+C:\xampp\htdocs\resource\c-sharp\obj\Debug\netcoreapp3.1\c-sharp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\resource\c-sharp\obj\Debug\netcoreapp3.1\c-sharp.AssemblyInfo.cs
+C:\xampp\htdocs\resource\c-sharp\obj\Debug\netcoreapp3.1\c-sharp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\resource\c-sharp\obj\Debug\netcoreapp3.1\c-sharp.dll
+C:\xampp\htdocs\resource\c-sharp\obj\Debug\netcoreapp3.1\c-sharp.pdb
+C:\xampp\htdocs\resource\c-sharp\obj\Debug\netcoreapp3.1\c-sharp.genruntimeconfig.cache
