@@ -1,0 +1,13 @@
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\bin\Debug\netcoreapp3.1\freestyle.exe
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\bin\Debug\netcoreapp3.1\freestyle.deps.json
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\bin\Debug\netcoreapp3.1\freestyle.runtimeconfig.json
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\bin\Debug\netcoreapp3.1\freestyle.runtimeconfig.dev.json
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\bin\Debug\netcoreapp3.1\freestyle.dll
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\bin\Debug\netcoreapp3.1\freestyle.pdb
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\obj\Debug\netcoreapp3.1\freestyle.csprojAssemblyReference.cache
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\obj\Debug\netcoreapp3.1\freestyle.AssemblyInfoInputs.cache
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\obj\Debug\netcoreapp3.1\freestyle.AssemblyInfo.cs
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\obj\Debug\netcoreapp3.1\freestyle.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\obj\Debug\netcoreapp3.1\freestyle.dll
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\obj\Debug\netcoreapp3.1\freestyle.pdb
+C:\xampp\htdocs\resource\c-sharp\c#\freestyle\freestyle\obj\Debug\netcoreapp3.1\freestyle.genruntimeconfig.cache
