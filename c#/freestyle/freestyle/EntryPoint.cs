@@ -17,22 +17,35 @@ class EntryPoint
         // int number0 = 0;
         // int number178 = 178;
         // int number21 = -21;
-         int number = 12 ^ 20;
+        // int number = 12 ^ 20;
 
-        double numberExp = Math.Pow(number, 20);
+        // double numberExp = Math.Pow(number, 20);
         //
         // Console.WriteLine(number0);
         // Console.WriteLine(number178);
         // Console.WriteLine(number21);
-         Console.WriteLine(numberExp);
 
-        Console.WriteLine(Math.Cos(Math.PI));
+        // Console.WriteLine(numberExp);
+        //
+        // Console.WriteLine(Math.Cos(Math.PI));
+        //
+        // Console.WriteLine(Math.Sqrt(9));
+        //
+        // Console.WriteLine(Math.Round(15.8));
+        //
+        // Console.ReadLine();
 
-        Console.WriteLine(Math.Sqrt(9));
+        Console.WriteLine("What is your name");
 
-        Console.WriteLine(Math.Round(15.8));
+        string firstName = Console.ReadLine();
 
-        Console.ReadLine();
+        Console.WriteLine("Okay, " + firstName);
+
+        Console.WriteLine("What is your age");
+
+        int age = int.Parse(Console.ReadLine());
+
+        Console.WriteLine(age + " ,are you really that young?");
 
     }
 }
