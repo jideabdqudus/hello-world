@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Threading;
+
 class EntryPoint
 {
-    static void Main()
-    {
+static void Main()
+{
         // Console.WriteLine("Introduction to Programming");
         // Console.WriteLine();
         // Console.WriteLine();
@@ -35,17 +37,42 @@ class EntryPoint
         //
         // Console.ReadLine();
 
-        Console.WriteLine("What is your name");
+        // Console.WriteLine("What is your name");
+        //
+        // string firstName = Console.ReadLine();
+        //
+        // Console.WriteLine("Okay, " + firstName);
+        //
+        // Console.WriteLine("What is your age");
+        //
+        // int age = int.Parse(Console.ReadLine());
+        //
+        // Console.WriteLine(age + ", are you really that young?");
 
-        string firstName = Console.ReadLine();
+        /*
+        int age = 0;
 
-        Console.WriteLine("Okay, " + firstName);
+        while (true)
+        {
+            Console.WriteLine("How old are you");
+            age = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("What is your age");
+            if (age <= 10 && age >= 1)
+            {
+                break;
+            }
 
-        int age = int.Parse(Console.ReadLine());
+              Thread.Sleep(2000);
+              Console.WriteLine("Please input age between 1 and 10");
 
-        Console.WriteLine(age + " ,are you really that young?");
+        }
 
-    }
+        Console.WriteLine(age);
+        */
+
+        bool value = true;
+
+        Console.WriteLine(!value);
+
+}
 }
