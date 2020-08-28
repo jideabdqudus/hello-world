@@ -70,9 +70,14 @@ static void Main()
         Console.WriteLine(age);
         */
 
-        bool value = true;
+        // bool value = true;
 
-        Console.WriteLine(!value);
+        // Console.WriteLine(!value);
 
-}
+
+        char specialCharacter = '\u0026';
+
+        Console.WriteLine(specialCharacter);
+
+ }
 }
