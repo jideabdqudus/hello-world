@@ -1,0 +1,6 @@
+G:\CSharp Course\visual studio projects\DataTypes\05. Strings\bin\Debug\_05.Strings.exe.config
+G:\CSharp Course\visual studio projects\DataTypes\05. Strings\bin\Debug\_05.Strings.exe
+G:\CSharp Course\visual studio projects\DataTypes\05. Strings\bin\Debug\_05.Strings.pdb
+G:\CSharp Course\visual studio projects\DataTypes\05. Strings\obj\Debug\05. Strings.csprojResolveAssemblyReference.cache
+G:\CSharp Course\visual studio projects\DataTypes\05. Strings\obj\Debug\_05.Strings.exe
+G:\CSharp Course\visual studio projects\DataTypes\05. Strings\obj\Debug\_05.Strings.pdb

@@ -1,0 +1,5 @@
+G:\CSharp Course\visual studio projects\DataTypes\04. Boolean\bin\Debug\_04.Boolean.exe.config
+G:\CSharp Course\visual studio projects\DataTypes\04. Boolean\bin\Debug\_04.Boolean.exe
+G:\CSharp Course\visual studio projects\DataTypes\04. Boolean\bin\Debug\_04.Boolean.pdb
+G:\CSharp Course\visual studio projects\DataTypes\04. Boolean\obj\Debug\_04.Boolean.exe
+G:\CSharp Course\visual studio projects\DataTypes\04. Boolean\obj\Debug\_04.Boolean.pdb

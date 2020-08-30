@@ -1,0 +1,6 @@
+G:\CSharp Course\visual studio projects\DataTypes\Integers\bin\Debug\Integers.exe.config
+G:\CSharp Course\visual studio projects\DataTypes\Integers\bin\Debug\Integers.exe
+G:\CSharp Course\visual studio projects\DataTypes\Integers\bin\Debug\Integers.pdb
+G:\CSharp Course\visual studio projects\DataTypes\Integers\obj\Debug\Integers.csprojResolveAssemblyReference.cache
+G:\CSharp Course\visual studio projects\DataTypes\Integers\obj\Debug\Integers.exe
+G:\CSharp Course\visual studio projects\DataTypes\Integers\obj\Debug\Integers.pdb

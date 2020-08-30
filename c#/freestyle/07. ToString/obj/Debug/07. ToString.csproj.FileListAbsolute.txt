@@ -1,0 +1,5 @@
+G:\CSharp Course\visual studio projects\DataTypes\07. ToString\bin\Debug\_07.ToString.exe.config
+G:\CSharp Course\visual studio projects\DataTypes\07. ToString\bin\Debug\_07.ToString.exe
+G:\CSharp Course\visual studio projects\DataTypes\07. ToString\bin\Debug\_07.ToString.pdb
+G:\CSharp Course\visual studio projects\DataTypes\07. ToString\obj\Debug\_07.ToString.exe
+G:\CSharp Course\visual studio projects\DataTypes\07. ToString\obj\Debug\_07.ToString.pdb

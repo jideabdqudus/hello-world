@@ -1,0 +1,6 @@
+G:\CSharp Course\visual studio projects\DataTypes\06. Objects\bin\Debug\_06.Objects.exe.config
+G:\CSharp Course\visual studio projects\DataTypes\06. Objects\bin\Debug\_06.Objects.exe
+G:\CSharp Course\visual studio projects\DataTypes\06. Objects\bin\Debug\_06.Objects.pdb
+G:\CSharp Course\visual studio projects\DataTypes\06. Objects\obj\Debug\06. Objects.csprojResolveAssemblyReference.cache
+G:\CSharp Course\visual studio projects\DataTypes\06. Objects\obj\Debug\_06.Objects.exe
+G:\CSharp Course\visual studio projects\DataTypes\06. Objects\obj\Debug\_06.Objects.pdb

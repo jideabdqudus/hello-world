@@ -1,0 +1,5 @@
+G:\CSharp Course\visual studio projects\DataTypes\11. ConvertingDataTypes\bin\Debug\_11.ConvertingDataTypes.exe.config
+G:\CSharp Course\visual studio projects\DataTypes\11. ConvertingDataTypes\bin\Debug\_11.ConvertingDataTypes.exe
+G:\CSharp Course\visual studio projects\DataTypes\11. ConvertingDataTypes\bin\Debug\_11.ConvertingDataTypes.pdb
+G:\CSharp Course\visual studio projects\DataTypes\11. ConvertingDataTypes\obj\Debug\_11.ConvertingDataTypes.exe
+G:\CSharp Course\visual studio projects\DataTypes\11. ConvertingDataTypes\obj\Debug\_11.ConvertingDataTypes.pdb

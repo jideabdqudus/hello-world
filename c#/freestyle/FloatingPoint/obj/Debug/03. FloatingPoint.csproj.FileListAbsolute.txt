@@ -1,0 +1,5 @@
+G:\CSharp Course\visual studio projects\DataTypes\FloatingPoint\bin\Debug\FloatingPoint.exe.config
+G:\CSharp Course\visual studio projects\DataTypes\FloatingPoint\bin\Debug\FloatingPoint.exe
+G:\CSharp Course\visual studio projects\DataTypes\FloatingPoint\bin\Debug\FloatingPoint.pdb
+G:\CSharp Course\visual studio projects\DataTypes\FloatingPoint\obj\Debug\FloatingPoint.exe
+G:\CSharp Course\visual studio projects\DataTypes\FloatingPoint\obj\Debug\FloatingPoint.pdb

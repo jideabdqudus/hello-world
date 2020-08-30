@@ -1,0 +1,6 @@
+G:\CSharp Course\visual studio projects\DataTypes\09. StringsTipsAndTricks\bin\Debug\_09.StringsTipsAndTricks.exe.config
+G:\CSharp Course\visual studio projects\DataTypes\09. StringsTipsAndTricks\bin\Debug\_09.StringsTipsAndTricks.exe
+G:\CSharp Course\visual studio projects\DataTypes\09. StringsTipsAndTricks\bin\Debug\_09.StringsTipsAndTricks.pdb
+G:\CSharp Course\visual studio projects\DataTypes\09. StringsTipsAndTricks\obj\Debug\10. StringsTipsAndTricks.csprojResolveAssemblyReference.cache
+G:\CSharp Course\visual studio projects\DataTypes\09. StringsTipsAndTricks\obj\Debug\_09.StringsTipsAndTricks.exe
+G:\CSharp Course\visual studio projects\DataTypes\09. StringsTipsAndTricks\obj\Debug\_09.StringsTipsAndTricks.pdb

@@ -1,10 +1,13 @@
 ﻿using System;
+using System.Text;
 using System.Threading;
 
 class EntryPoint
 {
 static void Main()
 {
+        Console.InputEncoding = Encoding.UTF8;
+        Console.OutputEncoding = Encoding.UTF8;
         // Console.WriteLine("Introduction to Programming");
         // Console.WriteLine();
         // Console.WriteLine();
@@ -77,7 +80,8 @@ static void Main()
 
         char specialCharacter = '\u0026';
 
-        Console.WriteLine(specialCharacter);
+        //Console.WriteLine(specialCharacter);
 
+        Console.WriteLine("What the fuck is wrong with the editor {0}, asasas", specialCharacter);
  }
 }

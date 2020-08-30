@@ -1,0 +1,6 @@
+G:\CSharp Course\visual studio projects\DataTypes\07. Arrays\bin\Debug\_07.Arrays.exe.config
+G:\CSharp Course\visual studio projects\DataTypes\07. Arrays\bin\Debug\_07.Arrays.exe
+G:\CSharp Course\visual studio projects\DataTypes\07. Arrays\bin\Debug\_07.Arrays.pdb
+G:\CSharp Course\visual studio projects\DataTypes\07. Arrays\obj\Debug\07. Arrays.csprojResolveAssemblyReference.cache
+G:\CSharp Course\visual studio projects\DataTypes\07. Arrays\obj\Debug\_07.Arrays.exe
+G:\CSharp Course\visual studio projects\DataTypes\07. Arrays\obj\Debug\_07.Arrays.pdb
